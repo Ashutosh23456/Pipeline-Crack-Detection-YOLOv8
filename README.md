@@ -113,7 +113,7 @@ Large datasets and trained model weights are intentionally excluded from this re
 **Ashutosh Shembade**
 
 Mechanical Engineering Student
-Aspiring Data Scientist | Machine Learning Enthusiast | Computer Vision Developer
+Aspiring Data Scientist | Machine Learning Enthusiast 
 
 ---
 
